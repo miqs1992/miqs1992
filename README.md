@@ -9,6 +9,10 @@
 
 - 👨‍💼 I'm currently working at [Exlabs](https://exlabs.com/) as project Technical Leader
 
+## 💡 A Quote:
+
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Everything%20not%20(yet)%20given%20to%20an%20end-user%20remains%20untested%20hypothesis&type=horizontal&theme=dark&author=Ewald%20Verhoeven%20@%20DevConf2023)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 ## 💻 My Current Tech Stack:
 
@@ -26,6 +30,7 @@
 
 ## 📖 Read My Articles:
 
+- [Writing cleaner Jest tests](https://exlabs.com/insights/writing-cleaner-jest-tests/)
 - [Left join for advanced rubyists](https://exlabs.com/insights/left-join-for-advanced-rubyists/)
 
 
