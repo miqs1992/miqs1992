@@ -22,6 +22,7 @@
 
 <img src="https://companieslogo.com/img/orig/SNOW-35164165.png?t=1634190631" alt="Snowflake" width="40"/>&nbsp;
 [![Terraform](https://skillicons.dev/icons?i=terraform)](https://skillicons.dev)
+[![NextJS](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
 
 
 ## 🪦 Tech Stack I used before:
