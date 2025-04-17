@@ -16,7 +16,7 @@
 
 ## 💻 My Current Tech Stack:
 
-[![Node.js, JavaScript, TypeScript, AWS, Postgres, GraphQL, React, Github Actions](https://skillicons.dev/icons?i=nodejs,js,ts,aws,postgres,graphql,react,githubactions)](https://skillicons.dev)
+[![Node.js, JavaScript, TypeScript, AI, AWS, Postgres, GraphQL, React, Github Actions](https://skillicons.dev/icons?i=nodejs,js,ts,ai,aws,postgres,graphql,react,githubactions)](https://skillicons.dev)
 
 ## 📚 Tech Stack I'm learning:
 
@@ -31,6 +31,7 @@
 
 ## 📖 Read My Articles:
 
+- [AI projects takeaways](https://www.linkedin.com/pulse/ai-project-takeaways-exlabs-lxc4f/)
 - [Writing cleaner Jest tests](https://exlabs.com/insights/writing-cleaner-jest-tests/)
 - [Left join for advanced rubyists](https://exlabs.com/insights/left-join-for-advanced-rubyists/)
 
