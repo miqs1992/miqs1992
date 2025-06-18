@@ -16,13 +16,11 @@
 
 ## 💻 My Current Tech Stack:
 
-[![Node.js, JavaScript, TypeScript, AI, AWS, Postgres, Nest, Angular](https://skillicons.dev/icons?i=nodejs,js,ts,ai,aws,postgres,nest,angular)](https://skillicons.dev)
+[![Node.js, TypeScript, Copilot, AWS, Postgres, NestJS, Angular](https://skills.syvixor.com/api/icons?i=nodejs,ts,githubcopilot,aws,postgresql,nestjs,angular)](https://skills.syvixor.com)
 
 ## 📚 Tech Stack I'm learning:
 
-<img src="https://companieslogo.com/img/orig/SNOW-35164165.png?t=1634190631" alt="Snowflake" width="40"/>&nbsp;
-[![Terraform](https://skillicons.dev/icons?i=terraform)](https://skillicons.dev)
-[![NextJS](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
+[![Snowflake, Terraform, NextJS]([https://skillicons.dev/icons?i=terraform](https://skills.syvixor.com/api/icons?i=snowflake,terraform,nextjs))](https://skills.syvixor.com)
 
 
 ## 🪦 Tech Stack I used before:
