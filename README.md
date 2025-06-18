@@ -16,7 +16,7 @@
 
 ## 💻 My Current Tech Stack:
 
-[![Node.js, JavaScript, TypeScript, AI, AWS, Postgres, GraphQL, React, Github Actions](https://skillicons.dev/icons?i=nodejs,js,ts,ai,aws,postgres,graphql,react,githubactions)](https://skillicons.dev)
+[![Node.js, JavaScript, TypeScript, AI, AWS, Postgres, Nest, Angular](https://skillicons.dev/icons?i=nodejs,js,ts,ai,aws,postgres,nest,angular)](https://skillicons.dev)
 
 ## 📚 Tech Stack I'm learning:
 
@@ -27,7 +27,7 @@
 
 ## 🪦 Tech Stack I used before:
 
-[![Ruby On Rails, Ruby, VueJs](https://skillicons.dev/icons?i=rails,ruby,vue)](https://skillicons.dev)
+[![Ruby On Rails, Ruby, VueJs, GraphQL, React, Github Actions](https://skillicons.dev/icons?i=rails,ruby,vue,graphql,react,githubactions)](https://skillicons.dev)
 
 ## 📖 Read My Articles:
 
