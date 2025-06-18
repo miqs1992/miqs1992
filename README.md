@@ -20,7 +20,7 @@
 
 ## 📚 Tech Stack I'm learning:
 
-[![Snowflake, Terraform, NextJS](https://skillicons.dev/icons?i=terraform](https://skills.syvixor.com/api/icons?i=snowflake,terraform,nextjs))](https://skills.syvixor.com)
+[![Snowflake, Terraform, NextJS](https://skills.syvixor.com/api/icons?i=snowflake,terraform,nextjs))](https://skills.syvixor.com)
 
 
 ## 🪦 Tech Stack I used before:
